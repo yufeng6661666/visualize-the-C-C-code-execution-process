@@ -17,7 +17,7 @@ python main.py
 
 接着你应该会看到这样的界面：
 
-![start](./img/001.png)
+![start](https://github.com/yufeng6661666/visualize-the-C-C-code-execution-process/blob/main/img/001.PNG)
 
 （推荐放大，效果更佳）
 
